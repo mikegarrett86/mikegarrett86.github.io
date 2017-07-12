@@ -3,7 +3,7 @@ layout: default
 ---
 
 ##### [](#header-5)Currently
-*   Solar Impact
+*   [Solar Impact](http://www.solarimpact.com)
 *   FlaSEIA
 *   Tree Fest
 
