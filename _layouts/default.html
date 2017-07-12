@@ -17,7 +17,16 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       
-        <p><small>me |at| mikegarrett.org</small></p>
+        <p>
+          <form method="POST" action="http://formspree.io/me+formspree@mikegarrett.org">
+            <input name="name" placeholder="Your name" type="name"/>
+            <input type="text" name="_replyto" placeholder="Your email"/>
+            <textarea name="message" placeholder="Your message"></textarea>
+            <button type="submit">Send</button>
+            <input type="hidden" name="_next" value="//mikegarrett.org/thanks" />
+            <input type="hidden" name="_subject" value="mikegarrett.org - new submission" />
+          </form>
+        </p>
     
       </header>
       <section>
