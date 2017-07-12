@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<small>Thanks!</small
+Form Submitted
 
 
 [back](index)
