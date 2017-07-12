@@ -13,3 +13,4 @@ layout: default
 *   [O2BKids](http://www.o2bkids.com)
 
 
+[Another page](another-page)
