@@ -2,12 +2,18 @@
 layout: default
 ---
 
-##Currently
+### [](#header-3)Currently
+
 Solar Impact
+
 FlaSEIA
+
 Tree Fest
 
-###Formerly
+### [](#header-3)Formerly
+
 Fracture
+
 Grooveshark
+
 O2BKids
