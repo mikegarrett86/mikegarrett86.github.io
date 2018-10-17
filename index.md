@@ -9,6 +9,6 @@ layout: default
 
 ##### [](#header-5)Formerly
 *   [Solar Impact](http://www.solarimpact.com)
-*   [FlaSEIA](http://www.flaseia.org)
+*   [Florida Solar Energy Industries Association](http://www.flaseia.org)
 *   [Fracture](http://www.fractureme.com)
 *   [Grooveshark](https://en.wikipedia.org/wiki/Grooveshark)
